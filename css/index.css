@@ -76,7 +76,7 @@ body{
  }
 
 nav{
-  background-color:rgb(255,182, 193)
+  background-color:rgb(255,182,193)
 }
 .nav-link{
   font-size: x-small;
@@ -109,12 +109,3 @@ nav-link{
   margin-right: 10px;
 
 }
-
-/*.bottom-left{
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  font: 30px 'Cookie', Helvetica, sans-serif;
-  color: #fff;
-  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
-}*/
