@@ -8,7 +8,7 @@ h1{
   height: 1.5em;
   margin: 0px;
   padding: 15px;
-  font: 70px 'Cookie', Helvetica, sans-serif;
+  font-family: 70px, 'Cookie';
   color: rgb(255,159,172);
 }
 
