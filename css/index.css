@@ -21,7 +21,7 @@ h1{
 .socialmedia{
   text-align: left;
   padding: 35px;
-  padding-left: 100px;
+  padding-left: 50px;
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -73,7 +73,7 @@ body{
  }
 
  .carousel-inner img {
-   margin: auto;
+   margin: right;
  }
 
 nav{
